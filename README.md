@@ -1,7 +1,7 @@
 Kirill
 
 ---
-Programming languages i use now:  
+Programming languages I use now:  
 ![Java](https://img.icons8.com/?size=40&id=Pd2x9GWu9ovX&format=png&color=000000) Java **;**  
 ![C++](https://img.icons8.com/color/40/000000/c-plus-plus-logo.png) C++ **;**  
 ![C](https://img.icons8.com/color/40/000000/c-programming.png) C **;**  
