@@ -2,10 +2,10 @@ Kirill
 
 ---
 Programming languages I use now:  
-![Java](https://img.icons8.com/?size=40&id=Pd2x9GWu9ovX&format=png&color=000000) Java **;**  
-![C++](https://img.icons8.com/color/40/000000/c-plus-plus-logo.png) C++ **;**  
-![C](https://img.icons8.com/color/40/000000/c-programming.png) C **;**  
-![Assembly](https://img.icons8.com/?size=40&id=gVK745a4Vaur&format=png&color=000000) Assembly **;**  
+![Java](https://img.icons8.com/?size=40&id=Pd2x9GWu9ovX&format=png&color=000000) Java **,**  
+![C++](https://img.icons8.com/color/40/000000/c-plus-plus-logo.png) C++ **,**  
+![C](https://img.icons8.com/color/40/000000/c-programming.png) C **,**  
+![Assembly](https://img.icons8.com/?size=40&id=gVK745a4Vaur&format=png&color=000000) Assembly **,**  
 ![Rust](https://img.icons8.com/?size=40&id=U41Than0pWOW&format=png&color=000000) Rust **.**
 
 *I love music*
