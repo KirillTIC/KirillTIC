@@ -9,4 +9,4 @@ Programming languages I use now:
 
 ![Haskell](https://img.icons8.com/?size=40&id=Lvn3jvfnl1XF&format=png&color=000000) Haskell **.**
 
-* I love music*
+* I love music
